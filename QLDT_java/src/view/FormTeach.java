@@ -330,6 +330,7 @@ public class FormTeach extends javax.swing.JPanel {
         cbb2.setSelectedIndex(0);
         cbb3.setSelectedIndex(0);
         ShowTable();
+        begin();
                
     }//GEN-LAST:event_btRefreshActionPerformed
 

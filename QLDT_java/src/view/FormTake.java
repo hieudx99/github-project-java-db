@@ -349,6 +349,8 @@ public class FormTake extends javax.swing.JPanel {
         cbb3.setSelectedIndex(0);
         txtGrade.setText("");
         ShowTable();
+        begin();
+                
                
     }//GEN-LAST:event_btRefreshActionPerformed
 
